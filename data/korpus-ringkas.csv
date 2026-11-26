@@ -1,0 +1,139 @@
+id,source,project,report_date,critical,high,medium,low,core,classes,repo_url
+1,pashov,1inch-security-review,,0,0,2,4,2,accounting,https://github.com/1inch/limit-order-protocol
+2,pashov,AdapterFinance-security-review,,0,0,9,3,9,dos,https://github.com/adapter-fi/AdapterVault
+3,pashov,Ambire-second-security-review,,3,1,1,2,5,signature-auth,https://github.com/AmbireTech/ambire-common
+4,pashov,Ambire-security-review,,1,0,1,4,2,access-control,https://github.com/AmbireTech/adex-protocol-eth
+5,pashov,Arcadia-security-review,,0,1,7,4,8,liquidation;accounting,https://github.com/arcadia-finance/lending-v2
+6,pashov,Arcana-security-review,,0,1,1,1,2,access-control,https://github.com/Prominence-Games/arcana-foundry-erc721a
+7,pashov,Astrolab-security-review,,2,7,8,2,17,accounting;dos;price-manipulation,https://github.com/AstrolabDAO/strats
+8,pashov,BatonLaunchpad-security-review,,1,1,3,2,5,token-integration,https://github.com/baton-finance/baton-contracts
+9,pashov,BearCave-second-security-review,,2,1,3,1,6,access-control,https://github.com/0xHoneyJar/bear-cave
+10,pashov,BearCave-security-review,,4,2,2,4,8,access-control,https://github.com/0xHoneyJar/bear-cave
+11,pashov,Bloom-security-review,,1,1,4,1,6,token-integration,https://github.com/Blueberryfi/Bloom-protocol
+12,pashov,Brrito-security-review,,0,0,3,6,3,price-manipulation,https://github.com/brritoxyz/brr-eth
+13,pashov,Bunni-security-review-August,,6,5,21,13,32,timelock-timing;dos;price-manipulation,https://github.com/timeless-fi/bunni-v2
+14,pashov,Bunni-security-review-October,,3,3,4,11,10,dos,https://github.com/Bunniapp/tokenomics
+15,pashov,Cryptex-security-review,,0,0,2,10,2,access-control,https://github.com/cryptexfinance/tcapv2.0
+16,pashov,Dyad-security-review,,2,6,3,4,11,accounting;liquidation,https://github.com/DyadStablecoin/contracts
+17,pashov,EVTerminal-security-review,,0,0,10,7,10,access-control,https://github.com/Sageterminal/Sage-Contracts
+18,pashov,GMD-security-review,,0,0,7,6,7,access-control;token-integration,https://github.com/saulgoodmandev/gmd
+19,pashov,HYTOPIAWallet-security-review,,0,3,2,2,5,price-manipulation,https://github.com/hytopiagg/wallet
+20,pashov,Hydration-security-review-October,,0,1,3,5,4,dos,https://github.com/galacticcouncil/hydration-node
+21,pashov,Hypercerts-security-review,,1,1,2,4,4,none,https://github.com/Network-Goods/hypercerts-protocol
+22,pashov,IPNFT-security-review,,0,1,3,5,4,token-integration,https://github.com/moleculeprotocol/IPNFT
+23,pashov,Increment-security-review,,1,5,7,13,13,dos;price-manipulation,https://github.com/Increment-Finance/peripheral-contracts
+24,pashov,Interpol-security-review,,1,3,3,10,7,arithmetic-rounding,https://github.com/0xHoneyJar/interpol
+25,pashov,IonProtocol-security-review,,1,1,7,9,9,dos,https://github.com/Ion-Protocol/ion-protocol
+26,pashov,IonProtocol-security-review-July,,0,1,2,9,3,input-validation,https://github.com/Ion-Protocol/ion-boring-vault
+27,pashov,Klaster-security-review,,0,0,3,9,3,timelock-timing,https://github.com/0xPolycode/klaster-smart-contracts
+28,pashov,LaPoste-security-review-October,,0,0,3,6,3,dos,https://github.com/stake-dao/laposte
+29,pashov,Metalabel-security-review,,0,0,4,2,4,timelock-timing,https://github.com/metalabel/metalabel-contracts-v1
+30,pashov,MoarCandy-security-review,,3,2,2,5,7,dos,https://github.com/MoarCandy/contracts
+31,pashov,MoleculeVesting-security-review,,0,0,4,2,4,input-validation,https://github.com/moleculeprotocol/token-vesting-contract
+32,pashov,Mugen-security-review,,0,2,1,3,3,access-control,https://github.com/Mugen-Finance/Products
+33,pashov,OpenDollar-security-review,,0,0,2,10,2,dos,https://github.com/open-dollar/od-relayer
+34,pashov,Overload-security-review,,0,0,4,0,4,token-integration,https://github.com/overload-labs/farm
+35,pashov,ParcelPayroll-security-review,,2,0,2,3,4,input-validation,https://github.com/ParcelHQ/parcel-payroll
+36,pashov,RollingDutchAuction-security-review,,3,1,4,3,8,arithmetic-rounding;token-integration,https://github.com/deomaius/rolling-dutch-auction
+37,pashov,SharwaFinance-security-review,,4,5,16,9,25,liquidation;accounting;price-manipulation,https://github.com/SharwaFinance/MarginTrading
+38,pashov,Smoothly-security-review,,2,1,2,5,5,governance,https://github.com/Smoothly-Protocol/contracts
+39,pashov,Spectra-security-review,,0,0,3,15,3,price-manipulation,https://github.com/perspectivefi/spectra-core
+40,pashov,Subsquid-security-review,,1,4,5,5,10,dos,https://github.com/subsquid/subsquid-network-contracts
+41,pashov,Zerem-security-review,,0,1,7,0,8,dos,https://github.com/hananbeer/zerem
+42,ottersec,EthSign keychain-snap,2023-06-29,0,0,2,1,2,,https://github.com/EthSign/keychain-snap
+43,yaudit,2023-07-TempleDAO-Lending-Report,2023-07-01,0,1,4,18,5,accounting,https://github.com/TempleDAO/temple
+44,yaudit,2023-10-DopexV2-CLAMM,2023-10-01,0,1,3,2,4,token-integration,https://github.com/dopex-io/dopex-v2-clamm
+45,ottersec,Vyper Vyperlang,2023-10-06,0,2,0,1,2,,https://github.com/vyperlang/vyper
+46,zellic,ZetaChain - 11.14.23 Zellic Audit Report,2023-11-14,1,1,3,2,5,dos,https://github.com/zeta-chain/zeta-node
+47,yaudit,2024-01-Inverse-sDOLA-yAudit-Report,2024-01-01,0,2,0,5,2,none,https://github.com/InverseFinance/dola-savings
+48,yaudit,2024-01-Peapods-yAudit-Report,2024-01-01,1,5,9,4,15,dos;token-integration;access-control,https://github.com/peapodsfinance/contracts
+49,zellic,Adrastia Protocol - Zellic Audit Report,2024-01-12,0,0,4,2,4,arithmetic-rounding,https://github.com/adrastia-oracle/adrastia-core
+50,zellic,Chateau - Zellic Audit Report,2024-02-12,3,0,1,0,4,dos,https://github.com/chateau-capital/ca
+51,ottersec,Caldera,2024-02-23,0,0,2,0,2,,https://github.com/ConstellationCrypto/celestia-bedrock
+52,yaudit,2024-03-Cove-yAudit-Report,2024-03-01,0,0,6,8,6,dos,https://github.com/Storm-Labs-Inc/cove-contracts-boosties
+53,zellic,Molend Protocol - Zellic Audit Report,2024-03-05,0,0,2,1,2,upgradeability,https://github.com/molend-labs/molend-protocol
+54,zellic,Penumbra - Zellic Audit Report,2024-03-05,5,5,3,2,13,timelock-timing,https://github.com/penumbra-zone/penumbra
+55,zellic,Suilend - Zellic Audit Report,2024-03-05,0,0,2,0,2,accounting,https://github.com/solendprotocol/suilend
+56,zellic,EtherFi - Zellic Audit Report,2024-03-13,5,1,3,1,9,accounting,https://github.com/etherfi-protocol/smart-contracts
+57,zellic,Safety Module - Zellic Audit Report,2024-03-13,0,2,4,2,6,price-manipulation,https://github.com/Cozy-Finance/cozy-safety-module-rewards-manager
+58,zellic,Palmy Finance - Zellic Audit Report,2024-03-18,0,3,4,2,7,oracle,https://github.com/palmy-finance/palmy-makai
+59,zellic,Omni AVS - Zellic Audit Report,2024-03-29,0,2,1,0,3,arithmetic-rounding,https://github.com/omni-network/omni
+60,zellic,WOOFi Swap - Zellic Audit Report,2024-04-16,0,2,3,2,5,dos,https://github.com/woonetwork/WooPoolV2
+61,ottersec,Stargate V2,2024-04-19,0,1,4,2,5,,https://github.com/stargate-protocol/stargate-v2
+62,zellic,Bracket Fi Escrow - Zellic Audit Report,2024-04-19,1,0,3,1,4,reentrancy,https://github.com/bracket-fi/escrow_contract
+63,ottersec,Skip Slinky Oracle,2024-05-06,1,0,1,0,2,,https://github.com/skip-mev/slinky
+64,ottersec,Blueberry StakeUp,2024-05-15,1,2,0,0,3,,https://github.com/Blueberryfi/StakeUp
+65,zellic,Awaken Swap - Zellic Audit Report,2024-05-22,0,3,2,1,5,access-control,https://github.com/Awaken-Finance/awaken-swap-contract
+66,zellic,Scroll zkEVM - Zellic Audit Report,2024-06-05,4,0,1,0,5,none,https://github.com/scroll-tech/zkevm-circuits
+67,zellic,eBridge Ethereum Bridge - Zellic Audit Report,2024-06-05,0,1,2,6,3,signature-auth,https://github.com/eBridgeCrosschain/ebridge-contracts.ethereum
+68,zellic,eBridge AElf Bridge - Zellic Audit Report,2024-06-13,1,4,1,4,6,oracle,https://github.com/eBridgeCrosschain/ebridge-contracts.aelf
+69,ottersec,Pyth Network Per,2024-06-21,1,0,1,2,2,,https://github.com/pyth-network/per
+70,zellic,Session Token - Zellic Audit Report,2024-07-08,0,2,1,1,3,none,https://github.com/oxen-io/eth-sn-contracts
+71,zellic,Hyperlane Starknet - Zellic Audit Report,2024-07-09,5,5,4,6,14,signature-auth;dos,https://github.com/astraly-labs/hyperlane_starknet
+72,zellic,PDT Staking V2 - Zellic Audit Report,2024-07-12,0,1,1,0,2,access-control,https://github.com/ParagonsDAO/pdt-staking
+73,zellic,Astria Bridge - Zellic Audit Report,2024-08-03,0,1,3,1,4,access-control,https://github.com/astriaorg/astria-bridge-contracts
+74,zellic,WOOFI Stake - Zellic Audit Report,2024-08-16,1,0,2,1,3,token-integration,https://github.com/woonetwork/WooPoolV2
+75,zellic,Metavest - Zellic Audit Report,2024-09-20,0,4,8,4,12,governance;timelock-timing;dos,https://github.com/MetaLex-Tech/MetaVesT
+76,yaudit,2024-10-GuessOurBlock,2024-10-01,0,0,6,3,6,none,https://github.com/HeroglyphEVM/GuessOurBlock
+77,zellic,DojoSwap - Zellic Audit Report,2024-10-08,1,0,1,3,2,input-validation,https://github.com/dojo-trading/dojoswap-contracts-public
+78,zellic,Gasp Node and Monorepo - Zellic Audit Report,2024-10-15,2,1,1,2,4,reentrancy,https://github.com/mangata-finance/eigen-layer-monorepo
+79,zellic,Session Token - Zellic Audit Report 10.23.24,2024-10-23,0,1,1,0,2,state-sync,https://github.com/oxen-io/eth-sn-contracts
+80,pashov,Clave-security-review_2024-11-02,2024-11-02,0,1,6,4,7,signature-auth,https://github.com/Abstract-Foundation/clave-contracts
+81,zellic,Facet Node - Zellic Audit Report,2024-11-05,0,0,2,0,2,none,https://github.com/0xFacet/facet-node
+82,zellic,Brevis - Zellic Audit Report,2024-11-13,4,3,3,15,10,input-validation;dos,https://github.com/brevis-network/brevis-sdk
+83,zellic,Fairyring - Zellic Audit Report,2024-11-15,2,1,1,2,4,dos,https://github.com/Fairblock/fairyring
+84,pashov,Peapods-security-review_2024-11-16,2024-11-16,5,7,13,17,25,accounting;dos;token-integration,https://github.com/peapodsfinance/contracts
+85,pashov,Dinari-security-review_2024-12-07,2024-12-07,0,1,5,5,6,dos,https://github.com/dinaricrypto/usdplus-contracts
+86,pashov,Nucleus-security-review_2024-12-14,2024-12-14,0,0,2,5,2,none,https://github.com/Ion-Protocol/nucleus-boring-vault
+87,zellic,Mina Token Bridge EVM - Zellic Audit Report,2024-12-20,1,3,2,1,6,input-validation;signature-auth;access-control,https://github.com/sotatek-dev/multichain-bridge-smart-contract-evm
+88,pashov,Clave-security-review_2024-12-23,2024-12-23,0,0,4,4,4,signature-auth,https://github.com/Abstract-Foundation/clave-contracts
+89,zellic,Cove - Zellic Audit Report,2024-12-23,2,3,2,1,7,accounting;reentrancy,https://github.com/Storm-Labs-Inc/cove-contracts-core
+90,pashov,Interpol-security-review_2024-12-24,2024-12-24,0,1,3,11,4,dos,https://github.com/0xHoneyJar/interpol
+91,pashov,Cove-security-review_2024-12-30,2024-12-30,0,2,5,16,7,signature-auth,https://github.com/Storm-Labs-Inc/cove-contracts-core
+92,ottersec,Plume Smart Wallets,2025-01-06,2,1,2,0,5,,https://github.com/plumenetwork/contracts
+93,pashov,Hyperlend-security-review_2025-01-11,2025-01-11,0,0,3,5,3,arithmetic-rounding,https://github.com/hyperlendx/hyperlend-core
+94,zellic,Apyx Stablecoin - Zellic Audit Report,2025-01-22,1,0,2,2,3,accounting,https://github.com/apyx-labs/evm-contracts
+95,pashov,Burve-security-review_2025-01-29,2025-01-29,4,3,5,8,12,dos;token-integration,https://github.com/itos-finance/Burve
+96,zellic,SoSoValue - Zellic Audit Report,2025-02-05,0,0,3,4,3,signature-auth,https://github.com/SoSoValueLabs/ssi-protocol
+97,zellic,Circuit DAO - Zellic Audit Report,2025-02-24,3,7,1,2,11,governance;input-validation;access-control,https://github.com/circuitdao/puzzles
+98,zellic,Swisstronik - Zellic Audit Report,2025-02-24,0,1,3,4,4,arithmetic-rounding;dos,https://github.com/SigmaGmbH/swisstronik-chain
+99,yaudit,2025-03-Bearn,2025-03-01,0,2,4,4,6,accounting,https://github.com/Bearn-Sucks/yBGT
+100,pashov,Burve-security-review_2025-03-05,2025-03-05,0,3,3,6,6,dos,https://github.com/itos-finance/Burve
+101,pashov,Blueberry-security-review_2025-03-12,2025-03-12,0,4,4,5,8,arithmetic-rounding,https://github.com/Blueberryfi/blueberry-v2-contracts
+102,zellic,IBC Eureka - Zellic Audit Report,2025-03-25,2,1,1,0,4,signature-auth,https://github.com/cosmos/solidity-ibc-eureka
+103,pashov,Blueberry-security-review_2025-03-26,2025-03-26,0,3,0,4,3,price-manipulation,https://github.com/Blueberryfi/blueberry-v2-contracts
+104,pashov,YieldBasis-security-review_2025-03-26,2025-03-26,0,0,9,4,9,accounting,https://github.com/yield-basis/yb-core
+105,zellic,Babylon Genesis Chain - Zellic Audit Report,2025-03-26,7,3,7,8,17,signature-auth;governance,https://github.com/babylonlabs-io/babylon
+106,yaudit,2025-04-Sickle,2025-04-01,0,4,8,16,12,dos,https://github.com/Uniswap/v4-core
+107,pashov,Level-security-review_2025-04-09,2025-04-09,0,0,5,17,5,input-validation,https://github.com/Level-Money/contracts
+108,pashov,Blueberry-security-review_2025-04-30,2025-04-30,1,4,4,8,9,token-integration,https://github.com/Blueberryfi/blueberry-v2-contracts
+109,pashov,Tanssi-security-review_2025-04-30,2025-04-30,0,0,6,17,6,oracle,https://github.com/moondance-labs/tanssi-symbiotic
+110,ottersec,Plume Staking,2025-05-09,3,1,1,1,5,,https://github.com/plumenetwork/contracts
+111,zellic,Mitosis (May) - Zellic Audit Report,2025-05-22,1,2,1,1,4,accounting,https://github.com/mitosis-org/protocol
+112,zellic,Mitosis - Zellic Audit Report,2025-05-22,1,2,1,1,4,accounting,https://github.com/mitosis-org/protocol
+113,zellic,Wrapped Staked TAO - Zellic Audit Report,2025-06-09,0,0,2,1,2,upgradeability,https://github.com/latent-to/wsttao
+114,zellic,Aori 0.3.1 Upgrade - Zellic Audit Report,2025-06-24,0,0,2,0,2,reentrancy,https://github.com/aori-io/aori
+115,zellic,Polygon Staking - Zellic Audit Report,2025-07-02,0,1,1,4,2,dos,https://github.com/stakedotlink/contracts
+116,zellic,OP Succinct - Zellic Audit Report,2025-07-30,0,0,2,0,2,none,https://github.com/succinctlabs/op-succinct
+117,zellic,SP1 Helios - Zellic Audit Report,2025-08-07,1,0,1,0,2,upgradeability,https://github.com/succinctlabs/sp1-helios
+118,zellic,Hyperlane - Radix - Zellic Audit Report,2025-08-26,0,1,1,1,2,access-control,https://github.com/hyperlane-xyz/hyperlane-radix
+119,pashov,YuzuUSD-security-review_2025-08-28,2025-08-28,0,3,2,13,5,price-manipulation,https://github.com/Telos-Consilium/ouroboros-contracts
+120,pashov,Hyperbeat-security-review_2025-09-03,2025-09-03,0,0,2,15,2,none,https://github.com/etherfi-protocol/BeHYPE
+121,zellic,cyberRaise - Zellic Audit Report,2025-10-16,0,0,4,1,4,input-validation,https://github.com/MetaLex-Tech/cybercorps-contracts
+122,zellic,Cloak V1 - Zellic Audit Report,2025-10-27,0,0,2,1,2,price-manipulation,https://github.com/scroll-tech/scroll-contracts
+123,pashov,Tangent-security-review_2025-10-30,2025-10-30,0,0,3,20,3,accounting,https://github.com/Tangent-labs/tangent-contracts
+124,zellic,Deepbook Margin - Zellic Audit Report,2025-11-12,1,1,4,2,6,liquidation,https://github.com/MystenLabs/deepbookv3
+125,pashov,Tangent-security-review_2025-12-08,2025-12-08,0,0,2,8,2,liquidation,https://github.com/Tangent-labs/tangent-contracts
+126,zellic,Jovay Relayer - Zellic Audit Report,2025-12-22,0,2,2,5,4,access-control,https://github.com/jovaynetwork/jovay-relayer
+127,pashov,YuzuUSD-security-review_2026-01-14,2026-01-14,0,0,2,9,2,dos,https://github.com/Telos-Consilium/ouroboros-contracts
+128,zellic,Arkhai Alkahest - Zellic Audit Report,2026-01-27,0,0,2,2,2,dos,https://github.com/arkhai-io/alkahest
+129,zellic,Frax (USD Stablecoin) - Zellic Audit Report,2026-02-13,0,0,2,4,2,token-integration;upgradeability,https://github.com/fraxfinance/hop-v2
+130,zellic,IBC-Go GMP Module and Attestations Light Client - Zellic Audit Report,2026-02-26,0,1,2,2,3,signature-auth;state-sync,https://github.com/cosmos/ibc-go
+131,pashov,Reserve-security-review_2026-02-27,2026-02-27,0,0,2,11,2,timelock-timing,https://github.com/reserve-protocol/reserve-governor
+132,zellic,FSP V1 and V2 - Zellic Audit Report,2026-03-16,0,0,6,9,6,arithmetic-rounding;signature-auth;input-validation,https://github.com/flare-foundation/flare-smart-contracts-v1
+133,zellic,Private Transfer With USX - Zellic Audit Report,2026-03-18,1,1,4,0,6,token-integration,https://github.com/scroll-tech/usx-contracts
+134,zellic,Flare FAssets V1.3 - Zellic Audit Report,2026-03-31,0,1,3,6,4,dos,https://github.com/flare-foundation/fassets
+135,zellic,Core Contracts - Zellic Audit Report,2026-04-22,1,3,3,2,7,accounting;access-control,https://github.com/tenbinlabs/tenbin-contracts
+136,zellic,Nori Bridge - Zellic Audit Report,2026-07-24,3,3,1,4,7,dos,https://github.com/Nori-zk/proof-conversion
+137,zellic,Flare FSP Diff - Zellic Audit Report,2026-07-31,0,0,3,2,3,dos,https://github.com/flare-foundation/flare-smart-contracts-v2
+138,zellic,Tenbin Labs - Zellic Audit Report,2026-08-11,0,0,2,1,2,access-control,https://github.com/tenbinlabs/tenbin-contracts
